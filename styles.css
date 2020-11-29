@@ -18,6 +18,7 @@ footer {
 }
 
 header {
+    margin-bottom: 5px;
     height: 126px;
     background-color: black;
 }
